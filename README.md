@@ -1,2 +1,2 @@
-# python-sequence
-Take input from a user that creates a simple sequence
+# Small python projects relating to discrete mathematics and logic
+
